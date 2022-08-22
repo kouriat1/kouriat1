@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: emoji lover. ❤️  
 
-- 💡 Interested in: 🌍 Full-Stack Development + ⚙ DevOps + ⛓ Blockchain 
+- 💡 Interested in: 🌍 Full-Stack Development + ⚙ DevOps .
  
 
 ## ℹ About me
